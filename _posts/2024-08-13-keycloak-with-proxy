@@ -1,8 +1,8 @@
 ---
-title: "keytool with proxy"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Navigating Certificate Challenges with Keytool and Proxy Settings"
+last_modified_at: 2024-08-18T19:38:02-05:00
 categories:
-  - Blog
+  - Guide
 tags:
   - Linux
   - proxy
@@ -10,8 +10,6 @@ tags:
   - system
   - certificate
 ---
-
-**Navigating Certificate Challenges with Keytool and Proxy Settings**
 
 If you've ever worked as a System Administrator or DevOps Engineer in a large company, you're likely familiar with the occasional struggles related to certificates. Whether it's dealing with SSL/TLS certificates or managing trust stores, these issues can be a common source of headaches. I've faced these challenges too, and I’d like to share an experience that might help others in similar situations.
 
