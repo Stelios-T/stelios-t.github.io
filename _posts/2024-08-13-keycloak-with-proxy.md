@@ -1,6 +1,6 @@
 ---
 title: "Navigating Certificate Challenges with Keytool and Proxy Settings"
-last_modified_at: 2024-08-18T19:38:02-05:00
+date: 2024-08-18T19:38:02-05:00
 categories:
   - Guide
 tags:
