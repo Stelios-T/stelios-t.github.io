@@ -1,6 +1,6 @@
 ---
 title: "Why Docker Should Be Your Default Development Tool"
-date: 2024-08-21T13:04:02-05:00
+date: 2024-05-03T13:04:02-05:00
 categories:
   - blog
 tags:
