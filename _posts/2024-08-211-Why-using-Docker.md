@@ -1,13 +1,12 @@
 ---
 title: "Why Docker Should Be Your Default Development Tool"
-date: 2024-08-21T13:04:02-05:00
+date: 2024-08-21T22:06:03-04:00
 categories:
   - blog
 tags:
   - docker
   - container
-  - system
-  - develop
+  - developing
 ---
 
 I vividly remember the first time a friend recommended Docker to me. It was one of those buzzwords that kept popping up in conversations, but I never found the time—or perhaps the motivation—to dive in. Eight years later, I can't imagine my workflow without it. Docker has become so integral to my development process that I’m genuinely excited to share why it should be your go-to tool as well. Whether you're just starting out or have been developing software for years, Docker can transform the way you work.
@@ -43,3 +42,4 @@ You can define your whole development environment with a Dockerfile and optional
 Continuous integration and continuous deployment pipelines are key to modern software development for the rapid and reliable delivery of high-quality software. Docker integrates very easily with both practices, thus making it very easy to automate building, testing, and application deployment. With Docker, you can execute repeatable builds, which can easily be tested in isolated environments to make sure that your code is ready for production before leaving the development stage.
 
 It also simplifies the deployment process by packaging your application along with its dependencies in one portable container. Thereafter, you can deploy it to any environment where Docker runs—whether it be a physical server, a virtual machine, or even a cloud service. This kind of flexibility eases management and scaling specifically within a microservices architecture, in which various services need deployment independently. It enables automation of deployment processes with Docker, thereby minimizing the likelihood of human failure and ensuring that your application can successfully be updated and rolled back.
+
