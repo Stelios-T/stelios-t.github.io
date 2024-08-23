@@ -45,14 +45,6 @@ The system is built as a MAVEN project. To get started, download the code and ru
 
 ## Testing
 
-In `MainModel.java`:
-
-1. **Add the type of personal data to test:**
-
-```
-service_required_data.add("data:<Personal Data>");
-```
-
 
 In ```MainModel.java``` 
 
