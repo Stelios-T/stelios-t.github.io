@@ -49,9 +49,9 @@ In `MainModel.java`:
 
 1. **Add the type of personal data to test:**
 
-   ```java
-   service_required_data.add("data:<Personal Data>");
-
+```
+service_required_data.add("data:<Personal Data>");
+```
 
 
 In ```MainModel.java``` 
